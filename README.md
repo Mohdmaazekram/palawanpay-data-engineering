@@ -31,7 +31,7 @@ I joined as Data Analyst but operated across **4 functions** — Data Engineerin
 
 ### The Problem I Walked Into
 
-| Area | Situation at Joining (Sep 2025) |
+| Area | Situation at Joining |
 |---|---|
 | **Reporting** | Mostly manual / copy-paste heavy — took **8–10 working days** per month |
 | **Infrastructure** | 100 GB AWS Workspace — filled frequently, slow queries, historical data deleted regularly |
@@ -138,7 +138,7 @@ BEFORE (Sep 2025)                         AFTER (Mar 2026)
 
 ---
 
-### Phase 3 — Jan to Mar 2026 | Full Automation & Optimization
+### Phase 3 — Jan to Till | Full Automation & Optimization
 > *Shifted to end-to-end automation, completed AWS migration, cut infrastructure cost by ~70%.*
 
 - Built production-grade ETL pipelines for CleverTap and Talon.One with daily refreshes
