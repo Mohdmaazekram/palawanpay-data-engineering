@@ -269,7 +269,7 @@ mart_customer_single_view
 - 📈 CLTV Scoring — rank customers by lifetime value
 - 🔍 Churn Detection — flag users with declining engagement
 
-### CLTV — Live on CleverTap (Dec 28, 2025)
+### CLTV — Live on CleverTap
 - CLTV scores computed in BigQuery and pushed live to CleverTap
 - Daily automated refresh — scores stay current without manual intervention
 - First ML-adjacent output delivered on the project
@@ -326,21 +326,6 @@ POST-MBR   │  Smoke Test + Next Month Plan
 | 👥 User access | Single-user only | **Multi-user environment** |
 | 📈 CLTV capability | Not available | **Live with daily auto-refresh** |
 | 🧮 Data scale | Limited | **10M+ records, daily refresh** |
-
----
-
-## 🧩 Scope of Work
-
-> *The title says Data Analyst. The work says otherwise.*
-
-Over 7 months, responsibilities spanned **4 distinct functions:**
-
-| Function | Work Done |
-|---|---|
-| **Data Analyst** | Reporting, KPI tracking, business analysis, ad hoc data requests |
-| **Data Engineer** | GCP architecture, BigQuery warehouse setup, ETL pipelines, data migration |
-| **MIS Executive** | End-to-end ownership of all recurring reports and finance data |
-| **Automation Developer** | Cloud Run pipelines, scheduled ETL jobs, CLTV daily refresh, Selenium scraping |
 
 ---
 
